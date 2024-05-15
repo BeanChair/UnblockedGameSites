@@ -5,7 +5,7 @@
 ```diff
 - 🔴 = Blocked
 + 🟢 = Unblocked
-@ ⚪ = Unknown/Blank page
+? ⚪ = Unknown/Blank page
 ```
 
 ## Airmash
