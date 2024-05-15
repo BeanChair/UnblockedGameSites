@@ -10,4 +10,7 @@ Text content
 </span>
 
 ## Other
-$${\color{red}Welcome$$
+```diff
++ test
+- test
+```
