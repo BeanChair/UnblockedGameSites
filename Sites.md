@@ -13,4 +13,5 @@
 
 > https://breadmash.azureedge.net **Status: ⚪**
 
-## Other
+## Misc
+> https://west.somenews.co.uk/games.html **Status: 🟢** [NEW!]
