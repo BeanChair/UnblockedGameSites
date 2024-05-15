@@ -19,13 +19,15 @@ All of these websites were tested with the Collier County Public Schools firewal
 
 > https://breadmash.azureedge.net **Status: ⚪**
 
-## Misc
+## Geoguessr
+> https://www.geoguessr.com/ **Status: 🟢** [NEW!]
+
+## Multi-game Sites
 > https://west.somenews.co.uk/games.html **Status: 🟢** [NEW!]
 
+> https://www.rapidwebapp.com/all-games **Status: 🟢** [NEW!]
+
+## Other
 > https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/HEoGi1Mb/index.html **Status: 🟢** [NEW!]
 
 > https://compute-it.toxicode.fr **Status: 🟢** [NEW!]
-
-> https://www.geoguessr.com/ **Status: 🟢** [NEW!]
-
-> https://www.rapidwebapp.com/all-games **Status: 🟢** [NEW!]
