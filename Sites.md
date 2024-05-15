@@ -4,5 +4,5 @@
 ## Airmash
 > https://ao.azureedge.net **Status: Unblocked**
 > https://breadmash.azureedge.net **Status: Unknown**
-
+<span style="color:blue">some *blue* text</span>.
 ## Other
