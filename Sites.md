@@ -5,6 +5,8 @@
 > https://ao.azureedge.net **Status: Unblocked**
 > https://breadmash.azureedge.net **Status: Unknown**
 
-<span style="color:blue">some *blue* text</span>.
+<span style="color:red">
+Text content
+</span>
 
 ## Other
