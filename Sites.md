@@ -3,10 +3,14 @@
 All of these websites were tested with the Collier County Public Schools firewall/blocker.
 
 ## Key:
-🔴 = Blocked\n
+🔴 = Blocked
+
 🟡 = Partial (May work on some computers, but not all)
-🟢 = Unblocked\n
-⚪ = Unknown/Blank page\n
+
+🟢 = Unblocked
+
+⚪ = Unknown/Blank page
+
 
 ## Airmash
 > https://ao.azureedge.net **Status: 🟢**
