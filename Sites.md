@@ -5,15 +5,12 @@
 ```diff
 - 🔴 = Blocked
 + 🟢 = Unblocked
-? ⚪ = Unknown/Blank page
+@ ⚪ = Unknown/Blank page
 ```
 
 ## Airmash
 > https://ao.azureedge.net **Status: 🟢**
-> https://breadmash.azureedge.net **Status: ⚪**
 
-<span style="color:red">
-Text content
-</span>
+> https://breadmash.azureedge.net **Status: ⚪**
 
 ## Other
