@@ -1,16 +1,19 @@
 ![UG](https://github.com/BeanChair/UnblockedGameSites/assets/169915564/fb403ebe-7a97-4f50-b27f-14f11ecf8114)
-# Unblocked Games
+# Unblocked Game Sites
+
+## Key:
+```diff
+- 🔴 = Blocked
++ 🟢 = Unblocked
+? ⚪ = Unknown/Blank page
+```
 
 ## Airmash
-> https://ao.azureedge.net **Status: Unblocked**
-> https://breadmash.azureedge.net **Status: Unknown**
+> https://ao.azureedge.net **Status: 🟢**
+> https://breadmash.azureedge.net **Status: ⚪**
 
 <span style="color:red">
 Text content
 </span>
 
 ## Other
-```diff
-+ test
-- test
-```
