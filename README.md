@@ -11,11 +11,13 @@ All of these websites were tested with the Collier County Public Schools firewal
 
 ⚪ = Unknown/Blank page
 
+*Blocked games will have the 🔴 status for 1 day before they get removed from this list.*
+
 
 ## Airmash
 > https://ao.azureedge.net **Status: 🟢**
 
-> https://altao.azureedge.net **Status: 🟡**
+> https://altao.azureedge.net **Status: 🔴**
 
 > https://breadmash.azureedge.net **Status: ⚪**
 
