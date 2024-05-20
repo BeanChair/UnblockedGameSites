@@ -2,6 +2,8 @@
 # Unblocked Game Sites
 All of these websites were tested with the Collier County Public Schools firewall/blocker.
 
+*Last updated May 20th 2024*
+
 ## Key:
 🔴 = Blocked
 
@@ -16,8 +18,6 @@ All of these websites were tested with the Collier County Public Schools firewal
 
 ## Airmash
 > https://ao.azureedge.net **Status: 🟢**
-
-> https://altao.azureedge.net **Status: 🔴**
 
 > https://breadmash.azureedge.net **Status: ⚪**
 
